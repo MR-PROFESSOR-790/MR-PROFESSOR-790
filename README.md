@@ -17,7 +17,7 @@ I don’t just debug code... I interrogate it.
 - 🔐 **Offensive Security & Red Team Ops** — infiltrating systems for the greater good
 - 🧠 **AI/ML for Payload Generation** — bending models to think like hackers
 - 🕷️ **Web App Pentesting** — XSS, CSRF, RCE, SQLi? I breathe those acronyms
-- ⛓️ **Blockchain & Smart Contract Forensics**
+- ⛓️ **Blockchain & Smart Contract**
 - 🤯 **AI-Powered Cyber Tools for Auto Exploitation**
 - 🧨 **CTF Wizardry** — exploiting logic, bypassing filters, cracking flags
 
